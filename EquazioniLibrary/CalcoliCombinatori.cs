@@ -16,6 +16,7 @@ namespace EquazioniLibrary
             for (int i = 1; i <= fattoriale; i++)
             {
                 fattoriale = fattoriale * i;
+
             }
 
             return fattoriale;
