@@ -8,7 +8,7 @@ namespace CalcoliCombinatori.Test
     {
         [TestMethod]
         public void TestMethod1()
-        {
+        { 
         }
     }
 }
